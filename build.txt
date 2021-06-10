@@ -1,0 +1,3 @@
+displayName = Broken Stopwatch
+author = Kaychub
+version = 0.1
